@@ -1,7 +1,7 @@
 <?php 
 include 'function.php';
 
-$key = "a12ada3a1d42bbfbd24bfe4b70fedd8d";
+$key = "your api key";
 $url = "http://api.rajaongkir.com/starter/";
 	
 
